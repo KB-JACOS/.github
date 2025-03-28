@@ -40,3 +40,26 @@
 
 **🛬 After Study**
 - [ ] **스터디 종료 후** 진행표 작성 및 매니저님께 전송
+
+### 💻 Commit Convention
+
+**[format]**  
+$commitType($platformName_$solveProbNum): $probName
+
+**[$commitType description]**
+ - `solved` : 문제 해결 
+ - `tried` : 해결을 시도함
+ - `refactor` : 해결한 문제를 개선함
+
+**[Example]**  
+ex1) 백준 1406번 "에디터"를 풀었을 경우  
+- ```solved: baekjoon_1406 - 에디터```
+
+ex2) 프로그래머스 "n+1 카드게임"을 풀었을 경우  
+- ```solved: programmers_258707 - n+1 카드게임```
+
+ex3) 백준 1406번 에디터를 시도했을때  
+- ```tried baekjoon_1406 - 에디터```
+
+ex4) 백준 1406번 에디터의 성능개선을 했을때  
+- ```refactor: baekjoon_1406 - 에디터```
