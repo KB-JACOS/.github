@@ -1,12 +1,40 @@
-## Hi there 👋
+## 🌊 KB IT's Your Life 6th - JACOS
+**JAVA 코딩 테스트 스터디**  
 
-<!--
+### ✅ Description
+| 팀명     | JACOS              |
+|--------|-------------------------|
+| 활동기간   | 2025.04.01 ~ 2025.08.21 |
+| 활동장소   | 어린이대공원역                 |
+| 스터디 내용 | JAVA Coding TEST         |
+| 팀장     | 이준범                     |
+| 팀원     | 서승준, 김은지, 전규진, 장현지, 김서연           |
 
-**Here are some ideas to get you started:**
+### 👥 Members
+| 이준범                                |서승준|김은지|전규진|장현지| 김서연 |
+|--------------------------------------------------------------------|-|-|----|---|---|
+| https://github.com/ss7622 |https://github.com/greensnapback0229|https://github.com/Answl| https://github.com/jeonkyujin   | https://github.com/Hyunji-JANG   | https://github.com/seoyeon2001   |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🔖 Rule
+- 매주 화요일, 목요일 1시간 반 이상 오프라인 스터디를 진행해야 한다.
+- 매주 두 명의 발표자는 문제를 준비해온다.
+- 스터디 진행시 발표자를 제외한 두 명은 토론을 하며 문제의 풀이 방향을 잡는다.
+- 발표자는 토론의 진행 방향이 정답과 많이 엇나갈 시 조언을 한다.
+
+### 👫🏻 How the study progresses
+**🛫 Before Study**
+- [ ] 스터디룸 예약
+- [ ] **모임 하루** 전에 운영진에게 **모임 날짜 및 시간** 공지 - 단체 카카오톡방 태그
+- [ ] Github의 각 주차 폴더에 정리한 내용 업로드
+- [ ] _(발표자)_ 발표 준비
+
+**✈️ During Study**
+- [ ] **스터디 시작 후 10분 이내**에 인증사진 업로드
+  - 지각자가 있을시, 다시 한 번 찍어서 업로드
+- [ ] _(팀장)_ 진행표 작성
+- [ ] _(서기)_ 노션 작성
+  - 제출은 pdf 변환로 변환하여 한다.
+
+**🛬 After Study**
+- [ ] **스터디 종료 후 10분 이내**에 인증사진 업로드
+- [ ] **스터디 종료 후 48시간 이내**에 아지트 스터디 Thread에 진행표 업로드
