@@ -71,13 +71,13 @@ $commitType($platformName_$solveProbNum): $probName
 
 **[Example]**  
 ex1) 백준 1406번 "에디터"를 풀었을 경우  
-- ```solved: baekjoon_1406 - 에디터```
+- ```solved: baekjoon_1406 - 에디터```  
 
 ex2) 프로그래머스 "n+1 카드게임"을 풀었을 경우  
-- ```solved: programmers_258707 - n+1 카드게임```
+- ```solved: programmers_258707 - n+1 카드게임```  
 
 ex3) 백준 1406번 에디터를 시도했을때  
-- ```tried baekjoon_1406 - 에디터```
+- ```tried baekjoon_1406 - 에디터```  
 
 ex4) 백준 1406번 에디터의 성능개선을 했을때  
-- ```refactor: baekjoon_1406 - 에디터```
+- ```refactor: baekjoon_1406 - 에디터```  
