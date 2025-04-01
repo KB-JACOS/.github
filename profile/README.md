@@ -26,25 +26,6 @@
 - 2팀 (김은지, 전규진)
 - 3팀 (이준범, 김서연)
 
-### 🐬 commit convention
-
-**[format]**
-- $commitType: $platformName_$solveProbNum $probName
-
-- **solved**: 문제 해결
-- **tried** : 해결을 시도함
-- **refactor** : 해결한 문제를 개선함
-
-- ex1)백준 1406번 "에디터"를 풀었을 경우
-  - solved: baekjoon_1406 에디터
-- ex2)프로그래머스 "n+1 카드게임"을 풀었을 경우
-  - solved: programmers_258707 n+1 카드게임
-- ex3)백준 1406번 에디터를 시도했을때
-  - tried: baekjoon_1406) 에디터
-- ex4)백준 1406번 에디터의 성능개선을 했을때
-  - refactor: baekjoon_1406 에디터
-
-
 ### 👫🏻 How the study progresses
 **🛫 Before Study**
 - [ ] 스터디룸 예약
