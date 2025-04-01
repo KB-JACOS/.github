@@ -43,7 +43,7 @@
 ### 💻 Commit Convention
 
 **[format]**  
-$commitType($platformName_$solveProbNum): $probName
+```$commitType($platformName_$solveProbNum): $probName```
 
 **[$commitType description]**
  - `solved` : 문제 해결 
