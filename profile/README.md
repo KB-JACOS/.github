@@ -11,9 +11,12 @@
 | 팀원     | 서승준, 김은지, 전규진, 장현지, 김서연           |
 
 ### 👥 Members
-| 이준범                                |서승준|김은지|전규진|장현지| 김서연 |
-|--------------------------------------------------------------------|-|-|----|---|---|
-| https://github.com/ss7622 |https://github.com/greensnapback0229|https://github.com/Answl| https://github.com/jeonkyujin   | https://github.com/Hyunji-JANG   | https://github.com/seoyeon2001   |
+ - 이준범 (<a href="https://github.com/ss7622">ss7622</a>)
+ - 서승준 (<a href="https://github.com/greensnapback0229">greensnapback0229</a>)
+ - 김은지 (<a href="https://github.com/Answl">Answl</a>)
+ - 전규진 (<a href="https://github.com/jeonkyujin">jeonkyujin</a>)
+ - 장현지 (<a href="https://github.com/Hyunji-JANG">Hyunji-JANG</a>)
+ - 김서연 (<a href="https://github.com/seoyeon2001">seoyeon2001</a>)
 
 ### 🔖 Rule
 - 매주 화요일, 목요일 1시간 반 이상 오프라인 스터디를 진행해야 한다.
